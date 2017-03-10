@@ -1,19 +1,26 @@
 # iOS-Swift-Practice-Project
 
+You can download all source [here](https://github.com/ZneuRay/iOS-Swift-Practice-Project/archive/master.zip)
 
-## W1
+## Week 1
 
 * demo project
 
-## W2
+[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/tree/master/DemoApplication/DemoApplication)
+
+## Week 2
 
 * variable
 * constant
 * tuple
 
-## W3
+[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/blob/master/Playground/week-2.playground/Contents.swift)
+
+## Week 3
 
 * operator
 * optional
 * optional binding
 * control flow
+
+## Week 4
