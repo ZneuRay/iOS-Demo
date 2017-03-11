@@ -67,6 +67,8 @@ let quantity_of_books = 10
 // single comment
 /*
 multi line comment
+ a
+ a
 */
 // shortcut for commant : cmd + /
 
