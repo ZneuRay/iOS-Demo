@@ -23,7 +23,7 @@ You can download all source [here](https://github.com/ZneuRay/iOS-Swift-Practice
 * optional binding
 * control flow
 
-[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/blob/master/Playground/week-2.playground/Contents.swift)
+[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/blob/master/Playground/week-3.playground/Contents.swift)
 
 ## Week 4
 
