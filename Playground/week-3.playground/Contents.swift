@@ -29,6 +29,14 @@ print("\((true) ? 10 : 20)")
 let num = 2
 print("\((num >= 2) ? 10 : 20)")
 
+if num >= 2 {
+    print(10)
+}
+else {
+    print(20)
+}
+
+
 // Comparison Operators
 // ==  Equal
 // !=  Not equal
@@ -52,7 +60,9 @@ var nilVar: String
 
 // Optional
 var optionalString: String?
-//optionalString = "Hello"
+optionalString = "Hello"
+print("\(optionalString!)")
+
 
 // Optional binding
 if let helloString = optionalString {
