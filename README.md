@@ -35,3 +35,21 @@ You can download all source [here](https://github.com/ZneuRay/iOS-Swift-Practice
 ## Week 5
 
 * temperature conversion application
+
+[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/tree/master/DemoApplication/Demo2Application)
+
+## Week 6
+
+* Collection types
+  * Array
+ 
+[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/blob/master/Playground/week-6.playground/Contents.swift)
+
+## Week 7
+
+* Collection types
+  * Array
+  * Set
+  * Dictionary
+  
+[source](https://github.com/ZneuRay/iOS-Swift-Practice-Project/blob/master/Playground/week-6.playground/Contents.swift)
